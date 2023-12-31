@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **farid.aliyevv258@gmail.com**
 
-- ⚡ Fun fact **I can solve rubik's cube under 15 seconds and I am self-taught developer!**
+- ⚡ Fun fact **I can solve rubik's cube under 15 seconds and I am a self-taught developer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
