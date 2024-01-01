@@ -16,12 +16,12 @@
 
 - 📫 How to reach me **farid.aliyevv258@gmail.com**
 
-- ⚡ Fun fact **I can solve rubik's cube under 15 seconds and I am a self-taught developer!**
+- ⚡ Fun fact **I can solve rubik's cube under 15 seconds, I play guitar and I am a self-taught developer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceoaqyfvh4rpiqorinrlkaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceoaqyfvh4rpiqorinrlkaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/faridaliyev-coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/faridaliyev-coder/" height="30" width="40" /></a>
+<a href="https://leetcode.com/FaridAliyev-coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/faridaliyev-coder/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
